@@ -1,0 +1,62 @@
+body{
+    background:#dfdfdf;
+    font-family: 'Raleway', sans-serif;
+    color: #2c2c2c;
+    margin: 0;
+}
+.container{
+    width: 900px;
+    margin: 0 auto 50px auto;
+}
+.profile{
+    text-align: center;
+}
+.foto{
+    width: 200px;/*Tamanho da imagem*/
+    border: 2px solid #ffff; /*Dorda da imagem*/
+    border-radius: 50%;/*Aredondamento da borda*/
+    margin: 30px 30px 0px;/*A margem de cada lado*/
+    box-shadow: 0px 0px 25px #4e4e4e;/*A sombra da imagem no caso*/
+    /*padding: 10px;*//*Espaçamento interno da borda entre a imagem*/
+}
+h1{
+    margin-bottom: 0;/*Tirei a margem de baixo*/
+}
+h2{
+    margin-top: 0;/*Tirei a margem do topo*/
+    font-style: italic;
+    color: #4e4e4e;/*Cor das letras somente no h2*/
+    font-weight: 100; /*Gorsura das letras*/
+    letter-spacing: -1px;/*Espaçamento entre as letras*/
+}
+h4{
+    margin-bottom: 0;
+}
+h5{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.logoRede{
+    width: 30px;
+}
+.face{
+    width: 49px;
+    margin: -25px -9px -9px -1px;
+}
+.removelink{
+    text-decoration: none;
+}
+.removelink{
+    margin: 0 15px 0 15px;
+}
+.listahab{
+    list-style: none;
+}
+.barra{
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    padding: 25px;
+    text-align: center;
+    font-size: 20px;
+}
